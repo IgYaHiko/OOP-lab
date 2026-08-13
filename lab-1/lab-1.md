@@ -11,11 +11,11 @@ Write a program to display "Hello World" on the console and implement the given 
 
 ### Code
 
-code file -> [`hello.cpp`](./hello.cpp) 
+[`hello.cpp`](./hello.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q1 Output](./ss/hello.png)
 
 ---
 
@@ -26,13 +26,11 @@ Write a C++ program to take temperature in Celsius and display it in Fahrenheit.
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q2.cpp`](./cel-fer.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q2 Output](./ss/cel.png)
 
 ---
 
@@ -43,13 +41,11 @@ Demonstrate `for`, `while`, and `do-while` loops with their possible variations.
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q3.cpp`](./loops.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q3 Output](./ss/loops.png)
 
 ---
 
@@ -60,13 +56,11 @@ Create a structure containing student details with the required data members and
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q4.cpp`](./struc.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q4 Output](./ss/std-struc.png)
 
 ---
 
@@ -77,13 +71,11 @@ Differentiate between private and public access/scope. Perform Q4 using a class 
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q5.cpp`](./student-class.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q5 Output](./ss/s-student-class.png)
 
 ---
 
@@ -94,13 +86,11 @@ Create a code snippet illustrating calling/accessing private member functions in
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q6.cpp`](./q6.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q6 Output](./q6-output.png)
 
 ---
 
@@ -111,13 +101,11 @@ Define a class named `Complex` with real and imaginary properties and the requir
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q7.cpp`](./q7.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q7 Output](./q7-output.png)
 
 ---
 
@@ -128,23 +116,10 @@ Implement namespace in a program to illustrate the use of same-name variables an
 
 ### Code
 
-```cpp
-// Add your code here
-```
+[`q8.cpp`](./q8.cpp)
 
 ### Output
 
-<!-- Add output screenshot here -->
+![Q8 Output](./q8-output.png)
 
 ---
-
-## Lab Completion
-
-* [ ] Q1
-* [ ] Q2
-* [ ] Q3
-* [ ] Q4
-* [ ] Q5
-* [ ] Q6
-* [ ] Q7
-* [ ] Q8
