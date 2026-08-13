@@ -86,11 +86,11 @@ Create a code snippet illustrating calling/accessing private member functions in
 
 ### Code
 
-[`q6.cpp`](./q6.cpp)
+[`q6.cpp`](./Q6.cpp)
 
 ### Output
 
-![Q6 Output](./q6-output.png)
+![Q6 Output](./ss/Q6.png)
 
 ---
 
@@ -101,11 +101,11 @@ Define a class named `Complex` with real and imaginary properties and the requir
 
 ### Code
 
-[`q7.cpp`](./q7.cpp)
+[`q7.cpp`](./Q7.cpp)
 
 ### Output
 
-![Q7 Output](./q7-output.png)
+![Q7 Output](./ss/Q7.png)
 
 ---
 
@@ -116,10 +116,10 @@ Implement namespace in a program to illustrate the use of same-name variables an
 
 ### Code
 
-[`q8.cpp`](./q8.cpp)
+[`q8.cpp`](./Q8.cpp)
 
 ### Output
 
-![Q8 Output](./q8-output.png)
+![Q8 Output](./ss/Q8.png)
 
 ---
