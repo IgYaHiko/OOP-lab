@@ -11,6 +11,9 @@ This assignment covers **constructors, parameterized constructors, constructor o
 ### Problem Statement
 Write a C++ program to create a class `Student` with data members `name` and `rollNo`. Use a **default constructor** to initialize these values and display the student details.
 
+### Code
+[`contructor.cpp`](./contructor.cpp)
+
 ### Output / Screenshot
 
 ![Q1-output](ss/1.png)
@@ -25,11 +28,11 @@ Write a C++ program to create a class `Student` with data members `name` and `ro
 Create a class `Rectangle` having data members `length` and `breadth`. Use a **parameterized constructor** to initialize the values and display the area of the rectangle.
 
 ### Code
-> The implementation is available in the corresponding source file.
+[`rect.cpp`](./rect.cpp)
 
 ### Output / Screenshot
 
-![Question 2 Output](screenshots/q2.png)
+![Question 2 Output](ss/2.png)
 
 > **Screenshot:** Add the output screenshot here.
 
@@ -41,11 +44,11 @@ Create a class `Rectangle` having data members `length` and `breadth`. Use a **p
 Write a C++ program to create a class `Employee` with data members `name`, `id`, and `salary`. Initialize the data members using a **parameterized constructor** and display the employee details.
 
 ### Code
-> The implementation is available in the corresponding source file.
+[`emp.cpp`](./emp.cpp)
 
 ### Output / Screenshot
 
-![Question 3 Output](screenshots/q3.png)
+![Question 3 Output](ss/3.png)
 
 > **Screenshot:** Add the output screenshot here.
 
@@ -61,11 +64,11 @@ Create a class `Box` with data members `length`, `width`, and `height`. Implemen
 - A function to calculate and display volume
 
 ### Code
-> The implementation is available in the corresponding source file.
+[`Box-Class.cpp`](./Box-Class.cpp)
 
 ### Output / Screenshot
 
-![Question 4 Output](screenshots/q4.png)
+![Question 4 Output](ss/4.png)
 
 > **Screenshot:** Add the output screenshot here.
 
@@ -83,11 +86,11 @@ Write a program to demonstrate **constructor overloading** using a class `Studen
 Display the details of objects created using all three constructors.
 
 ### Code
-> The implementation is available in the corresponding source file.
+[`Constructor-Overloading.cpp`](./Constructor-Overloading.cpp)
 
 ### Output / Screenshot
 
-![Question 5 Output](screenshots/q5.png)
+![Question 5 Output](ss/5.png)
 
 > **Screenshot:** Add the output screenshot here.
 
@@ -103,11 +106,11 @@ Create a class `Complex` with real and imaginary data members. Implement:
 - A display function
 
 ### Code
-> The implementation is available in the corresponding source file.
+[`complex.cpp`](./complex.cpp)
 
 ### Output / Screenshot
 
-![Question 6 Output](screenshots/q6.png)
+![Question 6 Output](ss/6.png)
 
 > **Screenshot:** Add the output screenshot here.
 
@@ -119,11 +122,11 @@ Create a class `Complex` with real and imaginary data members. Implement:
 Create a class `Demo` that displays a message when its constructor is called and another message when its destructor is called. Create multiple objects of the class and observe the order in which constructors and destructors execute.
 
 ### Code
-> The implementation is available in the corresponding source file.
+[`demo.cpp`](./demo.cpp)
 
 ### Output / Screenshot
 
-![Question 7 Output](screenshots/q7.png)
+![Question 7 Output](ss/7.png)
 
 > **Screenshot:** Add the output screenshot here.
 
@@ -135,11 +138,10 @@ Create a class `Demo` that displays a message when its constructor is called and
 Write a C++ program to demonstrate the **execution order of constructors and destructors** when objects are created inside `main()` and inside a separate function.
 
 ### Code
-> The implementation is available in the corresponding source file.
-
+[`Execution-Order.cpp`](./Execution-Order.cpp)
 ### Output / Screenshot
 
-![Question 8 Output](screenshots/q8.png)
+![Question 8 Output](ss/8.png)
 
 > **Screenshot:** Add the output screenshot here.
 
