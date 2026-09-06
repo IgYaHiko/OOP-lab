@@ -9,7 +9,7 @@ Each lab is documented separately in its own Markdown file. The root `README.md`
 | Lab       | Topic                                                              | Documentation            |
 | --------- | ------------------------------------------------------------------ | ------------------------ |
 | **Lab 1** | Introduction to OOP, Classes, Objects, Structs & Access Specifiers | [`lab-1.md`](./lab-1/lab-1.md) |
-| **Lab 2** | Coming Soon                                                        | —                        |
+| **Lab 2** | Contructor                                                       | [`lab-2.md`](./lab-2/lab-2.md)                         |
 | **Lab 3** | Coming Soon                                                        | —                        |
 | **Lab 4** | Coming Soon                                                        | —                        |
 
