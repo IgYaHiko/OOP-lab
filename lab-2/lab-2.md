@@ -13,7 +13,7 @@ Write a C++ program to create a class `Student` with data members `name` and `ro
 
 ### Output / Screenshot
 
-![Constructor-Overloading.cpp](ss/1.png)
+![Q1-output](ss/1.png)
 
 > **Screenshot:** Add the output screenshot here.
 
