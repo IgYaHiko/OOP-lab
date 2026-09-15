@@ -10,8 +10,8 @@ Each lab is documented separately in its own Markdown file. The root `README.md`
 | --------- | ------------------------------------------------------------------ | ------------------------ |
 | **Lab 1** | Introduction to OOP, Classes, Objects, Structs & Access Specifiers | [`lab-1.md`](./lab-1/lab-1.md) |
 | **Lab 2** | Contructor                                                       | [`lab-2.md`](./lab-2/lab-2.md)                         |
-| **Lab 3** | Coming Soon                                                        | —                        |
-| **Lab 4** | Coming Soon                                                        | —                        |
+| **Lab 3** | Friend func & constructor destructor                                                        | [`lab-3.md`](./lab-3/lab-3.md) —                        |
+| **Lab 4** | Inheritance                   |   [`lab-4.md`](./lab-4/lab-4.md)                 |
 
 ## 📁 Repository Structure
 
