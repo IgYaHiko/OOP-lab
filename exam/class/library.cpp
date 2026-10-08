@@ -19,6 +19,7 @@ public:
     void discount(double dist) {
         if(dist < 0) {
             cout << "non zero element" << endl;
+            return;
         }
 
         double discount = (price * (dist / 100));
@@ -43,7 +44,7 @@ int main() {
     b1.setBook("Game of throns", "Subhro", 100.00);
     b1.display();
 
-    b1.discount(20);
+    b1.discount(-10);
 
     b1.display();
 }
