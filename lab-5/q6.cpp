@@ -8,8 +8,7 @@ public:
         return quantity * price;
     }
 
-    double calculateBill(int q1, double p1,
-                         int q2, double p2) {
+    double calculateBill(int q1, double p1, int q2, double p2) {
         return (q1 * p1) + (q2 * p2);
     }
 
