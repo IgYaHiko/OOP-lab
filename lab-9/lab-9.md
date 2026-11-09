@@ -1,5 +1,5 @@
-# Object Oriented Programming Lab Assignment - 8
-## Expection Handling
+# Object Oriented Programming Lab Assignment - 9
+## Templates in C++
 
 
 ## 1. 
@@ -50,7 +50,7 @@
 
 ## 6.
 
-**File:** [`q5.cpp`](./q6.cpp)
+**File:** [`q6.cpp`](./q6.cpp)
 
 ### Output
 
